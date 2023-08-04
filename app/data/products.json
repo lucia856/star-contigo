@@ -1,0 +1,310 @@
+[
+    {
+        "title": "mapa estelar",
+        "description": "Incluye marco de madera con vidrio y diseño personalizado",
+        "prices": [
+            {
+                "size": "15x20",
+                "price": "2300"
+            },
+            {
+                "size": "20x30",
+                "price": "3000"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20MAPA%20ESTELAR"
+    },
+    {
+        "title": "cuadro musical",
+        "description": "Incluye marco de madera con vidrio y diseño personalizado",
+        "prices": [
+            {
+                "size": "15x20",
+                "price": "2150"
+            },
+            {
+                "size": "20x30",
+                "price": "2600"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20MUSICAL"
+    },
+    {
+        "title": "Cuadro mini polaroids",
+        "description": null,
+        "prices": [
+            {
+                "size": null,
+                "price": "4200"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20MUSICAL"
+    },
+    {
+        "title": "cuadro love",
+        "description": "Incluye marco de madera con vidrio y diseño personalizado",
+        "prices": [
+            {
+                "size": "20x30",
+                "price": "2400"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20LOVE"
+    },
+    {
+        "title": "cuadro collage de 20 fotos",
+        "description": "Incluye marco de madera con vidrio y diseño personalizado",
+        "prices": [
+            {
+                "size": "20x30",
+                "price": "2800"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20COLLAGE%20DE%2020%20%20FOTOS"
+    },
+    {
+        "title": "cuadro date",
+        "description": "Incluye marco de madera con vidrio y diseño personalizado",
+        "prices": [
+            {
+                "size": "20x30",
+                "price": "2600"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20DATE"
+    },
+    {
+        "title": "cuadro zodiacal",
+        "description": "Incluye marco de madera con vidrio y diseño personalizado",
+        "prices": [
+            {
+                "size": "20x30",
+                "price": "2600"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20ZODIACAL"
+    },
+    {
+        "title": "cuadro significado",
+        "description": "Incluye marco de madera con vidrio y diseño personalizado",
+        "prices": [
+            {
+                "size": "15x20 ",
+                "price": "2150"
+            },
+            {
+                "size": "20x30",
+                "price": "2650"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20SIGNIFICADO"
+    },
+    {
+        "title": "cuadro heart",
+        "description": "Incluye marco de madera con vidrio y diseño personalizado",
+        "prices": [
+            {
+                "size": "20x30",
+                "price": "2800"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20HEART"
+    },
+    {
+        "title": "cuadro star mosaico",
+        "description": "Cuadro con mas de 30/40 fotos",
+        "prices": [
+            {
+                "size": "15x20",
+                "price": "2900"
+            },
+            {
+                "size": "20x30",
+                "price": "3700"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20STAR%20MOSAICO"
+    },
+    {
+        "title": "cuadro carta love",
+        "description": "Diseño de 15 fotos con carta dedicatoria personal",
+        "prices": [
+            {
+                "size": "20x30",
+                "price": "2800"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20CARTA%20LOVE"
+    },
+    {
+        "title": "cuadro instalove",
+        "description": "Feed de Instagram personalizado con 7 fotos y frases a elegir",
+        "prices": [
+            {
+                "size": "20x30",
+                "price": "2800"
+            }
+        ],
+        "category": "cuadros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20INSTALOVE"
+    },
+    {
+        "title": "polas mini",
+        "description": null,
+        "prices": [
+            {
+                "size": "6 fotos",
+                "price": "580"
+            },
+            {
+                "size": "11 fotos",
+                "price": "800"
+            },
+            {
+                "size": "20 fotos",
+                "price": "1800"
+            }
+        ],
+        "category": "fotografias",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20POLAS%20MINI"
+    },
+    {
+        "title": "polas classics",
+        "description": null,
+        "prices": [
+            {
+                "size": "9 fotos",
+                "price": "750"
+            },
+            {
+                "size": "18 fotos",
+                "price": "1350"
+            },
+            {
+                "size": "27 fotos",
+                "price": "1800"
+            }
+        ],
+        "category": "fotografias",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20CUADRO%20POLAS%20CLASSICS"
+    },
+    {
+        "title": "polas postales",
+        "description": null,
+        "prices": [
+            {
+                "size": "8 fotos",
+                "price": "750"
+            },
+            {
+                "size": "12 fotos",
+                "price": "900"
+            },
+            {
+                "size": "24 fotos",
+                "price": "1800"
+            }
+        ],
+        "category": "fotografias",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20POLAS%20STAR%20POSTALES"
+    },
+    {
+        "title": "polas square",
+        "description": null,
+        "prices": [
+            {
+                "size": "6 fotos",
+                "price": "750"
+            },
+            {
+                "size": "12 fotos",
+                "price": "1150"
+            },
+            {
+                "size": "24 fotos",
+                "price": "2250"
+            }
+        ],
+        "category": "fotografias",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20POLAS%20SQUARE"
+    },
+    {
+        "title": "polaroids tiras",
+        "description": null,
+        "prices": [
+            {
+                "size": "1 tira",
+                "price": "350"
+            },
+            {
+                "size": "2 tiras",
+                "price": "550"
+            },
+            {
+                "size": "3 tiras",
+                "price": "900"
+            }
+        ],
+        "category": "fotografias",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20POLAS%20TIRAS"
+    },
+    {
+        "title": "polas kit corazón",
+        "description": null,
+        "prices": [
+            {
+                "size": null,
+                "price": "2500"
+            }
+        ],
+        "category": "fotografias",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20POLAS%20KIT%20CORAZON"
+    },
+    {
+        "title": "llavero spotify",
+        "description": null,
+        "prices": [
+            {
+                "size": null,
+                "price": "850"
+            }
+        ],
+        "category": "llaveros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20LLAVEROS%20SPOTIFY"
+    },
+    {
+        "title": "llavero foto-canción",
+        "description": null,
+        "prices": [
+            {
+                "size": null,
+                "price": "850"
+            }
+        ],
+        "category": "llaveros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20LLAVERO%20FOTO-CANCION"
+    },
+    {
+        "title": "llavero corazón",
+        "description": null,
+        "prices": [
+            {
+                "size": null,
+                "price": "850"
+            }
+        ],
+        "category": "llaveros",
+        "wsp": "https://api.whatsapp.com/send?phone=2612198966&text=Hola%20Brisa,%20quiero%20comprar%20LLAVERO%20CORAZON"
+    }
+]

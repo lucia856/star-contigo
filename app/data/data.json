@@ -1,0 +1,47 @@
+{
+    "categories": 
+    [
+        {"text": "cuadros", "link": "/cuadros.js"},
+        {"text": "llaveros", "link": "/llaveros.js"},
+        {"text": "fotografias", "link": "/fotografias.js"}
+    ],
+    "menu":
+    [
+        {"text": "nosotros", "link": "/nosotros.js"},
+        {"text": "contacto", "link": "/contacto.js"}
+    ],
+    "carrousel": ["/images/banner.jpg", "/images/banner1.png", "/images/banner1.movil.png", "/images/banner2.png", "/images/banner2movil.png"],
+    "nosotros":{
+        "title": "¡Bienvenidos a Star Contigo!",
+        "description": "¡Hola! Me presento, Mi nombre es Brisa, soy la personita encargada de todo lo que conlleva este emprendimiento. Tengo 19 años y actualmente soy estudiante. Me encanta ser parte de sus momentos especiales dejando una mágica impronta en cada producto que realizo para ustedes.\nAmo la familia de Estrellas que cada vez se va formando con cada uno de mis clientes y espero que de tu lado te sientas parte de esto también, que siempre sigue creciendo! Espero todo te guste.",
+        "sections": [
+            {"text": "star contigo es Una tienda de regalos dedicada con mucho amor y dedicación para cada uno de ustedes", "image":"/images/nosotros2.jpg"},
+            {"text": "es un emprendimiento que nació en plena pandemia, aÑo 2020, con el objetivo de llegar a los corazones de los demás mediante un recuerdo de nosotros para vos, ya sea mediante una foto, un cuadro, un llavero o lo que más te guste para regalar o regalarte", "image":"/images/nosotros3.jpg"},
+            {"text": "Realizamos Mapas Estelares, un plano que indica cómo estaba el cielo en determinada fecha, Cuadros Personalizados, con hasta 50 fotos, llaveros musicales, polaroids, y productos sumamente hechos a tu gusto! Si si, como lees, súper personalizados para regalar a tu pareja, amigo/os, familia, o a quien vos más quieras! Un detalle súper bonito", "image":"/images/nosotros4.jpg"}
+        ],
+        "rrss": [
+            {"image":"/images/instagram.svg", "link":"https://www.instagram.com/star_contigo/?hl=es"},
+            {"image":"/images/whatsapp-icon.svg", "link":"https://api.whatsapp.com/send?phone=2612198966&text=Hola%20STARCONTIGO!"}
+        ],
+        "footer": [
+            {"title":"medios de pago",
+            "images": ["/images/mercadopago.svg", "/images/bank-icon.svg"]},
+            {"title":"contactnos", "email":"starcontigomza@gmail.com",
+        "phone":"2612198966"},
+        {"title":"seguinos", "images":".images/instagram.svg"}
+        ],
+        "form-contact": {
+            "input":[
+                {"type": "text", "name":"nombre", "id":"nombre", "placeholder":"nombre"},
+                {"type": "text", "name":"apellido", "id":"apellido", "placeholder":"apellido"},
+                {"type": "text", "name":"provincia", "id":"provincia", "placeholder":"provincia"},
+                {"type": "text", "name":"localidad", "id":"localidad", "placeholder":"localidad"},
+                {"type": "emial", "name":"email", "id":"email", "placeholder":"email"},
+                {"type": "tel", "name":"celular", "id":"celular", "placeholder":"celular"}
+            ],
+            "textarea": [
+                {"name":"mensaje", "rows":"4", "cols":"50", "placeholder":"mensaje"}
+            ]
+        }
+    }
+}
