@@ -5,11 +5,11 @@
         "prices": [
             {
                 "size": "15x20",
-                "price": "2300"
+                "price": "3100"
             },
             {
                 "size": "20x30",
-                "price": "3000"
+                "price": "4500"
             }
         ],
         "category": "cuadros",
@@ -21,11 +21,11 @@
         "prices": [
             {
                 "size": "15x20",
-                "price": "2150"
+                "price": "2900"
             },
             {
                 "size": "20x30",
-                "price": "2600"
+                "price": "4200"
             }
         ],
         "category": "cuadros",
@@ -49,7 +49,7 @@
         "prices": [
             {
                 "size": "20x30",
-                "price": "2400"
+                "price": "4350"
             }
         ],
         "category": "cuadros",
@@ -61,7 +61,7 @@
         "prices": [
             {
                 "size": "20x30",
-                "price": "2800"
+                "price": "4300"
             }
         ],
         "category": "cuadros",
@@ -73,7 +73,7 @@
         "prices": [
             {
                 "size": "20x30",
-                "price": "2600"
+                "price": "4350"
             }
         ],
         "category": "cuadros",
@@ -85,7 +85,7 @@
         "prices": [
             {
                 "size": "20x30",
-                "price": "2600"
+                "price": "4350"
             }
         ],
         "category": "cuadros",
@@ -96,12 +96,8 @@
         "description": "Incluye marco de madera con vidrio y diseño personalizado",
         "prices": [
             {
-                "size": "15x20 ",
-                "price": "2150"
-            },
-            {
                 "size": "20x30",
-                "price": "2650"
+                "price": "4350"
             }
         ],
         "category": "cuadros",
@@ -113,7 +109,7 @@
         "prices": [
             {
                 "size": "20x30",
-                "price": "2800"
+                "price": "4350"
             }
         ],
         "category": "cuadros",
@@ -125,11 +121,11 @@
         "prices": [
             {
                 "size": "15x20",
-                "price": "2900"
+                "price": "3500"
             },
             {
                 "size": "20x30",
-                "price": "3700"
+                "price": "5000"
             }
         ],
         "category": "cuadros",
@@ -141,7 +137,7 @@
         "prices": [
             {
                 "size": "20x30",
-                "price": "2800"
+                "price": "4400"
             }
         ],
         "category": "cuadros",
@@ -153,7 +149,7 @@
         "prices": [
             {
                 "size": "20x30",
-                "price": "2800"
+                "price": "4400"
             }
         ],
         "category": "cuadros",
@@ -165,15 +161,15 @@
         "prices": [
             {
                 "size": "6 fotos",
-                "price": "580"
+                "price": "730"
             },
             {
                 "size": "11 fotos",
-                "price": "800"
+                "price": "1100"
             },
             {
                 "size": "20 fotos",
-                "price": "1800"
+                "price": "2000"
             }
         ],
         "category": "fotografias",
@@ -185,15 +181,15 @@
         "prices": [
             {
                 "size": "9 fotos",
-                "price": "750"
+                "price": "1000"
             },
             {
                 "size": "18 fotos",
-                "price": "1350"
+                "price": "1800"
             },
             {
                 "size": "27 fotos",
-                "price": "1800"
+                "price": "2900"
             }
         ],
         "category": "fotografias",
@@ -205,15 +201,15 @@
         "prices": [
             {
                 "size": "8 fotos",
-                "price": "750"
+                "price": "1400"
             },
             {
                 "size": "12 fotos",
-                "price": "900"
+                "price": "2000"
             },
             {
                 "size": "24 fotos",
-                "price": "1800"
+                "price": "3000"
             }
         ],
         "category": "fotografias",
@@ -225,15 +221,15 @@
         "prices": [
             {
                 "size": "6 fotos",
-                "price": "750"
-            },
-            {
-                "size": "12 fotos",
                 "price": "1150"
             },
             {
+                "size": "12 fotos",
+                "price": "1600"
+            },
+            {
                 "size": "24 fotos",
-                "price": "2250"
+                "price": "3000"
             }
         ],
         "category": "fotografias",
@@ -245,15 +241,15 @@
         "prices": [
             {
                 "size": "1 tira",
-                "price": "350"
+                "price": "500"
             },
             {
                 "size": "2 tiras",
-                "price": "550"
+                "price": "900"
             },
             {
                 "size": "3 tiras",
-                "price": "900"
+                "price": "1450"
             }
         ],
         "category": "fotografias",
@@ -265,7 +261,7 @@
         "prices": [
             {
                 "size": null,
-                "price": "2500"
+                "price": "3500"
             }
         ],
         "category": "fotografias",
@@ -277,7 +273,7 @@
         "prices": [
             {
                 "size": null,
-                "price": "850"
+                "price": "1400"
             }
         ],
         "category": "llaveros",
@@ -289,7 +285,7 @@
         "prices": [
             {
                 "size": null,
-                "price": "850"
+                "price": "1400"
             }
         ],
         "category": "llaveros",
@@ -301,7 +297,7 @@
         "prices": [
             {
                 "size": null,
-                "price": "850"
+                "price": "1400"
             }
         ],
         "category": "llaveros",
